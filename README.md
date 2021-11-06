@@ -109,7 +109,7 @@
 ## 计算机网络
 
 - [Stanford CS144](https://cs144.github.io/)：Introduction to Computer Networking.
-- [B站韩立刚老师的计算机网络](https://www.bilibili.com/video/BV17p411f7ZZ)（韩老师讲课诙谐易懂，让你在哈哈大笑中学到很多知识点）
+- [B站韩立刚老师的计算机网络](https://www.bilibili.com/video/BV1gV411h7r7?spm_id_from=333.999.0.0)（韩老师讲课诙谐易懂，让你在哈哈大笑中学到很多知识点）
 
 - 《计算机网络：自顶向下方法》
 

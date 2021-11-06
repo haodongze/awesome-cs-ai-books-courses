@@ -181,6 +181,7 @@
 
 - [Berkeley CS285](http://rll.berkeley.edu/deeprlcourse/)：Deep RL
 - 《深度学习》（花书）
+- [《神经网络与深度学习》](https://nndl.github.io/)
 
 ### 计算机视觉
 

@@ -18,8 +18,6 @@
   * [推荐、计算广告、风控](#----------)
   * [大数据](#---)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ## 编程语言
 ### 		C++
 

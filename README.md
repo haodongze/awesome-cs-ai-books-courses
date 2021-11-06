@@ -15,7 +15,7 @@
   * [深度学习](#深度学习)
   * [计算机视觉](#计算机视觉)
   * [自然语言处理](#自然语言处理)
-  * [推荐、计算广告、风控](#推荐、计算广告、风控)
+  * [推荐&计算广告&风控](#推荐&计算广告&风控)
   * [大数据](#大数据)
 
 ## 编程语言
@@ -191,7 +191,7 @@
 - [Stanford CS224n](http://web.stanford.edu/class/cs224n/)：Natural Language Processing with Deep Learning. 
 - [李宏毅《自然语言处理》](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)
 
-### 推荐、计算广告、风控
+### 推荐&计算广告&风控
 
 - 《推荐系统实践》
 

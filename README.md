@@ -23,11 +23,8 @@
 ### 		C++
 
 - [Stanford CS106L](http://web.stanford.edu/class/cs106l/): C++ Language Programming.
-
 - 《C++ Primer Plus》
-
 - 《Effective C++ 中文版》
-
 - 《STL源码剖析》
 - [STL源码剖析视频](https://www.bilibili.com/video/BV1db411q7B8)（C++大师侯捷老师的源码视频，搭配STL源码剖析看效果更佳）
 - 《深度探索C++对象模型》
@@ -35,11 +32,8 @@
 ### 		Python
 
 - [Stanford CS41](https://stanfordpython.com/): Python Language Programming.
-
 - 《Python编程 从入门到实践》
-
 - 《流畅的Python》
-
 - 《利用Python进行数据分析》
 
 ### Java
@@ -72,11 +66,9 @@
 ## 计算机基础和体系结构
 
 - [Stanford CS106B](http://web.stanford.edu/class/cs106b/): Programming Abstractions.
-
 - [MIT 6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)：Introduction to Computer Science and Programming in Python.
 - [Harvard CS50](https://cs50.harvard.edu/x/2020/): This is CS50! (一门很好的导论课程，覆盖的范围非常之广，且内容与MIT的导论课程颇为互补)
 - [MIT 6.null](https://missing.csail.mit.edu/): The Missing Semester of Your CS Education. (CS实用工具集合介绍)
-
 - [CMU 15-213](https://www.cs.cmu.edu/~213/)：Introduction to Computer Systems (ICS). (教材是CSAPP)
 - [MIT 6.004](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)：Computer Structure. (偏硬件)
 - [CMU Computer Architecture](https://safari.ethz.ch/architecture/fall2019/doku.php)
@@ -89,7 +81,6 @@
 ## 操作系统
 
 - [Stanford CS140](http://web.stanford.edu/~ouster/cgi-bin/cs140): 
-
 - [Berkeley CS162](https://cs162.eecs.berkeley.edu/): Operating Systems and Systems Programming.
 - [MIT 6.824](https://pdos.csail.mit.edu/6.824/): Distributed Systems.
 - [MIT 6.S081/6.828](https://pdos.csail.mit.edu/6.828/2020/tools.html): Operating System Engineering. (b站上有视频)
@@ -102,15 +93,10 @@
 ## Linux
 
 - 《鸟哥的Linux私房菜》
-
 - 《Linux就该这么学》
-
 - 《Linux内核设计与实现》（整体介绍，不如后面两本深入）
-
 - 《深入理解Linux内核》
-
 - 《深入Linux内核架构》
-
 - 《linux 命令行与 shell 脚本编程大全》
 
 ## 系统/网络编程
@@ -123,13 +109,9 @@
 
 - [Stanford CS144](https://cs144.github.io/)：Introduction to Computer Networking.
 - [B站韩立刚老师的计算机网络](https://www.bilibili.com/video/BV1gV411h7r7?spm_id_from=333.999.0.0)（韩老师讲课诙谐易懂，让你在哈哈大笑中学到很多知识点）
-
 - 《计算机网络：自顶向下方法》
-
 - 《图解TCP/IP》
-
 - 《图解HTTP》
-
 - 《网络是怎样连接的》
 
 ## 数据库
@@ -167,22 +149,16 @@
 ### 机器学习
 
 - [Coursera Andrew NG的Machine Learning](https://www.coursera.org/learn/machine-learning)
-
 - [Stanford CS229](http://cs229.stanford.edu/)：Machine Learning.
 - [CMU 15-701](http://www.cs.cmu.edu/~mgormley/courses/10701-f16/schedule.html)：Intro to Machine Learning. 
 - [Stanford CS246](http://web.stanford.edu/class/cs246/)：Mining Massive Data Sets.
 - [Stanford CS224W](http://web.stanford.edu/class/cs224w/)：Machine Learning with Graphs.
 - [Coursera PGM](https://www.coursera.org/specializations/probabilistic-graphical-models)(概率图模型专项课程)
 - [CMU 15-708](http://www.cs.cmu.edu/~epxing/Class/10708-19/lectures/)：Probabilistic Graphical Model.
-
 - 《Pattern Classification (PC)》
-
 - 《Elements of Statistical Learning》
-
 - 《Pattern Recognition and Machine Learning (PRML)》
-
 - 《Machine Learning: a Probabilistic Approach (MLAPP)》
-
 - 《Information Theory, Inference, and Learning》
 - 《 统计学习方法》
 - 《机器学习》（西瓜书）
@@ -208,25 +184,17 @@
 ### 推荐&计算广告&风控
 
 - 《推荐系统实践》
-
 - 《深度学习推荐系统》
-
 - 《推荐系统 技术、评估及高效算法》
-
 - 《美团机器学习实践》
-
 - 《计算广告》
-
 - 《在线广告-互联网广告系统的架构及算法》
-
 - 《智能风控》
 
 ### 大数据
 
 - 《Hive编程指南》
-
 - 《spark 快速大数据分析》
-
 - 美团技术文章：[part1](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html) [part2](https://tech.meituan.com/2016/05/12/spark-tuning-pro.html)
 
 

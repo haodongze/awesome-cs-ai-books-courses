@@ -77,6 +77,7 @@
 - [Stanford CS149](http://cs149.stanford.edu/fall19/)：PARALLEL COMPUTING. (并行计算这门课会讲Apache Spark到GPU这些系统背后的原理)
 - MHRD: From NAND to CPU. (Steam上一款有趣的小游戏，从NAND开始搭建各种逻辑电路，最后制作出一款简易的CPU)
 - 《Computer Architecture: a Quantitative Approach》
+- 《计算机程序的构造与解释》
 
 ## 操作系统
 

@@ -81,7 +81,7 @@
 
 ## 操作系统
 
-- [Stanford CS140](http://web.stanford.edu/~ouster/cgi-bin/cs140): 
+- [Stanford CS140](https://www.scs.stanford.edu/21wi-cs140/): Operating Systems.
 - [Berkeley CS162](https://cs162.eecs.berkeley.edu/): Operating Systems and Systems Programming.
 - [MIT 6.824](https://pdos.csail.mit.edu/6.824/): Distributed Systems.
 - [MIT 6.S081/6.828](https://pdos.csail.mit.edu/6.828/2020/tools.html): Operating System Engineering. (b站上有视频)
@@ -89,7 +89,7 @@
 - [B站清华大学操作系统](https://www.bilibili.com/video/BV1js411b7vg)
 - 《现代操作系统：原理与实现》(上海交通大学陈海波教授的著作，书中主要介绍操作系统的理论与具体实现细节等，感觉不如CSAPP)
 - 《Modern Operating System》
-- 《深入理解计算机系统》
+- [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/home.html)(配合实验学习，效果很好)
 
 ## Linux
 

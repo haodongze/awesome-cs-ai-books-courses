@@ -62,6 +62,7 @@
 - 《程序员代码面试指南》（左程云大神的书，我并没有看完，只是看了其中的海量数据处理部分的题目就已经十分受用了，在某大厂三面中就考查到了其中的海量数据集处理的问题）
 - 《编程之美》
 -  Leetcode HOT100和1-300题
+-  [数据结构大作业](https://github.com/peterzheng98/CS158-DS_Project)
 
 ## 计算机基础和体系结构
 
@@ -79,6 +80,7 @@
 - MHRD: From NAND to CPU. (Steam上一款有趣的小游戏，从NAND开始搭建各种逻辑电路，最后制作出一款简易的CPU)
 - 《Computer Architecture: a Quantitative Approach》
 - 《计算机程序的构造与解释》
+- [工科致远/ACM 班暑期编程综合实践项目](https://acm.sjtu.edu.cn/wiki/PPCA_2019)
 
 ## 操作系统
 
